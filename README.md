@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Angel Gutierrez Monola</h1>
-<h3 align="center">I'm a AWS DevOps and Webdevelopper, I work using php, python and bash and I like use docker for my projects. I'm working as a wordpress developper developping and optimizing plugins and themes. I'm a beginner and entusiast of the WEB security.</h3>
+<h1 align="center">Hi 👋, I'm Angel</h1>
+<h3 align="center">I'm a AWS DevOps and Web Developer, I work using php, python and bash and I like use docker for my projects. I'm working as a wordpress developper developping and optimizing plugins and themes. I'm a beginner and entusiast of the WEB security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gumonet&label=Profile%20views&color=0e75b6&style=flat" alt="gumonet" /> </p>
 
