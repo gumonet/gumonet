@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gumonet&label=Profile%20views&color=0e75b6&style=flat" alt="gumonet" /> </p>
 
-<p align="left"> <a href="https://twitter.com/monola26" target="blank"><img src="https://img.shields.io/twitter/follow/monola26?logo=twitter&style=for-the-badge" alt="monola26" /></a> </p>
+<p align="left"> <a href="https://twitter.com/monola26" target="blank"><img src="https://img.shields.io/twitter/follow/gumonet?logo=twitter&style=for-the-badge" alt="gumonet" /></a> </p>
 
 - 🔭 I’m currently working like DevOps on [Reworth](https://reworth.co)
 
