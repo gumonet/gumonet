@@ -16,7 +16,10 @@
 
 - 📄 Know about my experiences [https://resume.io/r/GZBKYPUtk](https://resume.io/r/GZBKYPUtk)
 
-<p> <a href="https://www.credly.com/badges/254e3483-730a-457d-b0da-657db1dd633d/public_url"> <img src="https://images.credly.com/size/220x220/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" > </a> </p>
+<p> 
+  <a href="https://www.credly.com/badges/254e3483-730a-457d-b0da-657db1dd633d/public_url"> <img src="https://images.credly.com/size/220x220/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" > </a>
+  <a href="https://www.credly.com/badges/b6128536-972d-4800-aa6c-e8825ca36175/public_url"> <img src="https://images.credly.com/size/220x220/images/99444472-f91b-4f5f-9706-ba86ace46fd4/image.png" > </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
