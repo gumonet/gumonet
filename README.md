@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://camo.githubusercontent.com/6f0862439bd339eaa14f22a28af6fa77ed6d13a1f8072022d3f8f23df9638f86/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966" width="100%" > </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/6f0862439bd339eaa14f22a28af6fa77ed6d13a1f8072022d3f8f23df9638f86/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966" width="100%" style="max-with: 400px; margin: 0 auto;" > </p>
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">I'm a AWS DevOps and Web Developer, I work using php, python and bash and I like use docker for my projects. I'm working as a wordpress developper developping and optimizing plugins and themes. I'm a beginner and entusiast of the WEB security.</h3>
 
@@ -19,6 +19,7 @@
 <p> 
   <a href="https://www.credly.com/badges/254e3483-730a-457d-b0da-657db1dd633d/public_url"> <img src="https://images.credly.com/size/220x220/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" > </a>
   <a href="https://www.credly.com/badges/b6128536-972d-4800-aa6c-e8825ca36175/public_url"> <img src="https://images.credly.com/size/220x220/images/99444472-f91b-4f5f-9706-ba86ace46fd4/image.png" > </a>
+  <a href="https://www.credly.com/badges/69bc0d95-02d9-40a9-8f48-f7b8b8766bce/public_url"> <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" > </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
